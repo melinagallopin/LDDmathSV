@@ -1,5 +1,7 @@
 ## Licence Mathématiques-Sciences de la vie à l'Université Paris-Saclay
-####  Double licence MathSV 
+
+
+#### Informations générales sur la double licence MathSV 
 
 
 La double licence biologie-mathématique est ouverte depuis quelques années 
@@ -7,12 +9,19 @@ La double licence biologie-mathématique est ouverte depuis quelques années
 et exigeante** en mathématiques ET en biologie. 
 
 
-Elle s'adresse aux étudiant(e)s ayant un bon niveau en mathématiques et souhaitant approfondir l’étude des deux disciplines pour se laisser la possibilité de **poursuivre en master de mathématiques ou en master de biologie** par la suite. 
+Elle s'adresse aux étudiant(e)s ayant un bon niveau en mathématiques et souhaitant approfondir l’étude des deux disciplines. 
 
 Des informations plus précises sur cette formation, notamment le descriptif du programme des trois années de licence (LDD1, LDD2 et LDD3) sont accessibles ici : [https://www2licences.imo.universite-paris-saclay.fr/mathematiques-sciences-de-la-vie/](https://www2licences.imo.universite-paris-saclay.fr/mathematiques-sciences-de-la-vie/).
 Un document en pdf présentant la licence est également disponible ici [pdf infos](https://www.universite-paris-saclay.fr/sites/default/files/media/formations/WEB%20LDD%20Mathématiques%2C%20Sciences%20de%20la%20Vie.pdf).
 
-Cette double licence permet également aux étudiant(e)s motivés de rejoindre certaines grandes écoles par des voies d'admissions parallèles. En particulier, cette double licence dispose d'accords de partenariats avec **CentraleSupélec** [(Ingénierie pour la santé)](https://www.centralesupelec.fr/sites/default/files/8p-sante_web_v1.pdf) et l'**ENSAE** [(https://www.ensae.fr)](https://www.ensae.fr). 
+#### Poursuite d'études
+
+Cette double licence s'adresse aux étudiants souhaitant se laisser la possibilité de **poursuivre en master de mathématiques ou en master de biologie** par la suite. 
+
+Cette double licence permet également aux étudiant(e)s motivés de rejoindre certaines grandes écoles par des voies d'admissions parallèles. En particulier, cette double licence dispose de partenariats avec l'école **CentraleSupélec** [(Ingénierie pour la santé)](https://www.centralesupelec.fr/sites/default/files/8p-sante_web_v1.pdf) et l'école **ENSAE** [(https://www.ensae.fr)](https://www.ensae.fr). 
+
+
+#### Conditions d'admission
 
 Les enseignements de mathématiques sont communs avec d’autres filières sélectives de l'université Paris Saclay (Doubles licences math-économie, math-informatique et math-physique). Le rythme d'apprentissage en mathématiques est donc très soutenu. Pour intégrer cette double licence, il est obligatoire de disposer d'un bon niveau en mathématiques, en ayant par exemple suivi l'option "spécialité mathématiques" en terminale. L'option "mathématiques expertes" est conseillée.
 
@@ -20,14 +29,14 @@ Les enseignements de mathématiques sont communs avec d’autres filières séle
 **Cette licence est également ouverte aux étudiants de classes préparatoires souhaitant se réorienter vers l'université.**
 
 
-### Admission en première année LDD1
+### Admission en première année (LDD1)
 
 Une procédure d'admission en première année est ouverte via cette application  [https://www.parcoursup.fr](https://www.parcoursup.fr).
 La limite pour déposer les dossiers était fixée au 8 avril 2022. Cependant, **la phase complémentaire parcoursup s’ouvrira le 23 juin 2022**. 
 Elle permettra aux étudiants de formuler des nouveaux vœux et de rejoindre la formation. 
 
 
-### Admission en deuxième année ou troisième année LDD2 ou LDD3
+### Admission en deuxième année ou troisième année (LDD2 ou LDD3)
 
 
 Une procédure d'admission en deuxième année de licence et troisième est possible (pour les étudiants ayant le niveau requis) pour réussir dans la formation 
