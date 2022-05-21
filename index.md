@@ -32,7 +32,7 @@ Elle permettra aux étudiants de formuler des nouveaux vœux et de rejoindre la 
 ### Admission en deuxième année ou troisième année LDD2 ou LDD3
 
 
-Une procédure d'admission en deuxième année de licence et troisième est possible pour les étudiants ayant le niveau requis pour réussir dans la formation 
+Une procédure d'admission en deuxième année de licence et troisième est possible (pour les étudiants ayant le niveau requis) pour réussir dans la formation 
  via la plateforme eCandidat  [https://ecandidat.universite-paris-saclay.fr](https://ecandidat.universite-paris-saclay.fr) :
  
  - Pour les étudiant(e)s inscrit(e)s à l’UPSaclay en 2021-2022, identifiez-vous avec vos identifiants ADONIS
@@ -54,8 +54,13 @@ candidature en LDD2 ou LDD3 à télécharger et à déposer une fois complétée
 
   - Mélina Gallopin
   - Maître de Conférences Univ. Paris-Saclay
-  - Co-Responsable de formation
+  - Co-Responsable de formation avec Gaëlle Lelandais, Pierre-Yves Le Gall et Stéphanie Bury-Moné.
   - Email : **melina.gallopin@universite-paris-saclay.fr**
+
+
+
+
+
 
 
 
