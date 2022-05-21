@@ -50,7 +50,7 @@ Une procédure d'admission en deuxième année de licence et troisième est poss
 baccalauréat + post-bac ;diplômes))
       - n’oubliez pas de numéroter vos souhaits par ordre de préférence sur la fiche de
 candidature en LDD2 ou LDD3 à télécharger et à déposer une fois complétée (indiquer « 1 » dans la case LDD2 ou LDD3 s’il s’agit de votre choix n°1)
-      - Notabene: en cas de problème technique,consultez les FAQ et/ou envoyez un message
+      - NB: en cas de problème technique,consultez les FAQ et/ou envoyez un message
 à assistance.candidature@universite-paris-saclay.fr
 
   - Période de candidature pour les admissions en deuxième ou troisième année sur eCandidat :
@@ -59,8 +59,7 @@ candidature en LDD2 ou LDD3 à télécharger et à déposer une fois complétée
  
 #### Pour toute demande d'informations, n'hésitez pas à contacter la personne ci-dessous :
 
-  - Mélina Gallopin
-  - Maître de Conférences Univ. Paris-Saclay
+  - Mélina Gallopin, Maître de Conférences Univ. Paris-Saclay
   - Co-Responsable de formation avec Gaëlle Lelandais, Pierre-Yves Le Gall et Stéphanie Bury-Moné.
   - Email : **melina.gallopin@universite-paris-saclay.fr**
 
