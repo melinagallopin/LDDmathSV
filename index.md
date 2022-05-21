@@ -1,5 +1,5 @@
-## La double licence MSV à PSaclay
-####  Licence Mathématiques-Sciences de la vie à l'Université Paris-Saclay
+## Licence Mathématiques-Sciences de la vie à l'Université Paris-Saclay
+####  Double licence MathSV 
 
 
 La double licence biologie-mathématique est ouverte depuis quelques années 
