@@ -3,13 +3,14 @@ title: LDD MathSV
 email: lddmathsv[@]gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Informations à propos de l'admission en double licence
-baseurl: '' # /LDDmathSV.github.io # the subpath of your site, e.g. /blog/
+baseurl: '' # /lddmathsv.github.io # the subpath of your site, e.g. /blog/
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
-github_username:  LDDmathSV
+github_username:  lddmathsv
 
 # Build settings
 markdown: kramdown # redcarpet
 highlighter: rouge # pygments
 
 theme: jekyll-theme-minimal
+
