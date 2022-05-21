@@ -11,3 +11,5 @@ github_username:  LDDmathSV
 # Build settings
 markdown: kramdown # redcarpet
 highlighter: rouge # pygments
+
+theme: jekyll-theme-minimal
