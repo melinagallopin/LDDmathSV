@@ -5,7 +5,7 @@
 
 
 La double licence biologie-mathématique est ouverte depuis quelques années 
-à l'Université Paris Saclay. Il s'agit d'une **formation sélective** (24 étudiants) **intensive
+à l'Université Paris Saclay. Il s'agit d'une **formation sélective** (24 étudiant(e)s) **intensive
 et exigeante** en mathématiques ET en biologie. 
 
 
@@ -16,9 +16,9 @@ Un document en pdf présentant la licence est également disponible ici [pdf inf
 
 #### Poursuite d'études
 
-Cette double licence s'adresse aux étudiants souhaitant se laisser la possibilité de **poursuivre en master de mathématiques ou en master de biologie** par la suite. 
+Cette double licence s'adresse aux étudiant(e)s souhaitant se laisser la possibilité de **poursuivre en master de mathématiques ou en master de biologie** par la suite. 
 
-Cette double licence permet également aux étudiant(e)s motivés de rejoindre certaines grandes écoles par des voies d'admissions parallèles. En particulier, cette double licence dispose de partenariats avec l'école **CentraleSupélec** [(Ingénierie pour la santé)](https://www.centralesupelec.fr/sites/default/files/8p-sante_web_v1.pdf) et l'école **ENSAE** [(https://www.ensae.fr)](https://www.ensae.fr). 
+Cette double licence permet également aux étudiant(e)s motivé(e)s de rejoindre certaines grandes écoles par des voies d'admissions parallèles. En particulier, cette double licence dispose de partenariats avec l'école **CentraleSupélec** [(Ingénierie pour la santé)](https://www.centralesupelec.fr/sites/default/files/8p-sante_web_v1.pdf) et l'école **ENSAE** [(https://www.ensae.fr)](https://www.ensae.fr). 
 
 
 #### Conditions d'admission
