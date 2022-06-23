@@ -24,7 +24,7 @@ Cette licence double-diplôme permet également aux étudiant(e)s motivé(e)s de
 
 #### Conditions d'admission
 
-Les enseignements de mathématiques sont communs avec d’autres filières sélectives de l'université Paris Saclay (Licences double-diplômes math-économie, math-informatique et math-physique). Le rythme d'apprentissage en mathématiques est donc très soutenu. Pour intégrer cette licence double-diplôme, il est obligatoire de disposer d'un bon niveau en mathématiques, en ayant par exemple suivi l'option "spécialité mathématiques" en terminale. L'option "mathématiques expertes" est conseillée.
+Les enseignements de mathématiques sont communs avec d’autres filières sélectives de l'université Paris Saclay (Licences double-diplôme math-économie, math-informatique, math-physique). Le rythme d'apprentissage en mathématiques est donc très soutenu. Pour intégrer cette licence double-diplôme, il est obligatoire de disposer d'un bon niveau en mathématiques, en ayant par exemple suivi l'option "spécialité mathématiques" en terminale. L'option "mathématiques expertes" est conseillée.
 
 
 **Cette licence est également ouverte aux étudiants de classes préparatoires souhaitant se réorienter vers l'université.**
