@@ -15,6 +15,11 @@ Des informations plus précises sur cette formation, notamment le descriptif du 
 Un document en pdf présentant la licence est également disponible ici [pdf infos](https://www.universite-paris-saclay.fr/sites/default/files/media/formations/WEB%20LDD%20Mathématiques%2C%20Sciences%20de%20la%20Vie.pdf).
 La licence double-diplôme permet d'obtenir un diplôme licence adossé à un diplôme universitaire et d'acquérir 240 ECTS au lieu de 180 ECTS pour la licence seule.
 
+#### Journée "Portes Ouvertes" le samedi 11 février 2023 de 10h à 17h. 
+
+Les journées "Portes Ouvertes" de la formation auront lieu le samedi 11 février 2023 de 10h à 17h. Toutes les informations sur les journées "Portes Ouvertes" sont disponibles ici [https://www.sciences.universite-paris-saclay.fr/actualites/journees-portes-ouvertes-de-la-faculte-des-sciences-dorsay-vendredi-10-et-samedi-11-fevrier-2023](https://www.sciences.universite-paris-saclay.fr/actualites/journees-portes-ouvertes-de-la-faculte-des-sciences-dorsay-vendredi-10-et-samedi-11-fevrier-2023)
+
+
 #### Poursuite d'études
 
 Cette licence double-diplôme s'adresse aux étudiant(e)s souhaitant se laisser la possibilité de **poursuivre en master de mathématiques ou en master de biologie** par la suite. 
@@ -24,7 +29,7 @@ Cette licence double-diplôme permet également aux étudiant(e)s motivé(e)s de
 
 #### Conditions d'admission
 
-Les enseignements de mathématiques sont communs avec d’autres filières sélectives de l'université Paris Saclay (Licences double-diplôme math-économie, math-informatique, math-physique). Le rythme d'apprentissage en mathématiques est donc très soutenu. Pour intégrer cette licence double-diplôme, il est obligatoire de disposer d'un bon niveau en mathématiques, en ayant par exemple suivi l'option "spécialité mathématiques" en terminale. L'option "mathématiques expertes" est conseillée.
+Les enseignements de mathématiques sont communs avec d’autres filières sélectives de l'université Paris Saclay (Licences double-diplôme math-économie, math-informatique, math-physique). Le rythme d'apprentissage en mathématiques est donc très soutenu. Pour intégrer cette licence double-diplôme, il est obligatoire de disposer d'un bon niveau en mathématiques, en ayant par exemple suivi la "spécialité mathématiques" en terminale. L'option "mathématiques expertes" est conseillée. Nous conseillons aux étudiants n'ayant pas suivi la "spécialité mathématiques" en terminale de prendre contact avec les responsables de formation par e-mail ou en venant directement nous rencontrer lors de la  journée "portes ouvertes" le samedi 11 février 2023. 
 
 
 **Cette licence est également ouverte aux étudiants de classes préparatoires souhaitant se réorienter vers l'université.**
@@ -33,7 +38,7 @@ Les enseignements de mathématiques sont communs avec d’autres filières séle
 ### Admission en première année (LDD1)
 
  - La procédure d'admission en première année est disponible via cette application  [https://www.parcoursup.fr](https://www.parcoursup.fr).
- - **La limite s'incrire et formuler les voeux est fixée au 9 mars 2023.** 
+ - **La limite pour s'incrire et formuler les voeux est fixée au 9 mars 2023.** 
  - **La limite pour déposer les dossiers est fixée au 6 avril 2023.**
  - La phase complémentaire parcoursup s’ouvrira au cours du mois de juin. Elle permettra aux étudiants de formuler des nouveaux vœux et de rejoindre la formation. 
 
