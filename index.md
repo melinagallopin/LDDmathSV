@@ -33,8 +33,8 @@ Les enseignements de mathématiques sont communs avec d’autres filières séle
 ### Admission en première année (LDD1)
 
  - La procédure d'admission en première année est disponible via cette application  [https://www.parcoursup.fr](https://www.parcoursup.fr).
- - La limite pour déposer les dossiers était fixée au 8 avril 2022. 
- - **La phase complémentaire parcoursup s’ouvrira le 23 juin 2022**. Elle permettra aux étudiants de formuler des nouveaux vœux et de rejoindre la formation. 
+ - La limite pour déposer les dossiers était fixée au 6 avril 2023. 
+ - **La phase complémentaire parcoursup s’ouvrira au cours du mois de juin**. Elle permettra aux étudiants de formuler des nouveaux vœux et de rejoindre la formation. 
 
 
 ### Admission en deuxième année ou troisième année (LDD2 ou LDD3)
@@ -43,8 +43,8 @@ Les enseignements de mathématiques sont communs avec d’autres filières séle
 Une procédure d'admission en deuxième année de licence et troisième est possible (pour les étudiants ayant le niveau requis) pour réussir dans la formation 
  via la plateforme eCandidat  [https://ecandidat.universite-paris-saclay.fr](https://ecandidat.universite-paris-saclay.fr) :
  
- - Pour les étudiant(e)s inscrit(e)s à l’UPSaclay en 2021-2022, identifiez-vous avec vos identifiants ADONIS
- -  Pour les étudiant(e)s non-inscrit(e)s à l’UPSaclay en 2021-2022, vous devrez créer un compte.
+ - Pour les étudiant(e)s inscrit(e)s à l’UPSaclay en 2022-2023, identifiez-vous avec vos identifiants ADONIS
+ -  Pour les étudiant(e)s non-inscrit(e)s à l’UPSaclay en 2022-2023, vous devrez créer un compte.
  -  Pour candidater :
       - consultez le Guide d'utilisation eCandidat disponible [ici](http://webapplis3.di.u-psud.fr/ecandidat-aide/documentation/candidat/guide_du_candidat.pdf)
       - déposez tous les justificatifs demandés (CV ; lettre de motivation ; relevés de notes
@@ -54,8 +54,8 @@ candidature en LDD2 ou LDD3 à télécharger et à déposer une fois complétée
       - NB: en cas de problème technique,consultez les FAQ et/ou envoyez un message
 à assistance.candidature@universite-paris-saclay.fr
 
-  - Ouverture de la période de candidature : le **16 mai 2022**. 
-  - Fermeture de la période de candidature : le **30 juin 2022**.
+  - Ouverture de la période de candidature : au cours du mois de **mai 2023**. 
+  - Fermeture de la période de candidature : au cours du mois de  **juin 2023**.
   - Les étudiant(e)s sont sélectionné(e)s sur dossier. Les étudiant(e)s retenu(e)s seront contacté(e)s à partir de mi-juillet.
  
 #### Pour toute demande d'informations, n'hésitez pas à contacter la personne ci-dessous :
