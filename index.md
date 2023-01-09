@@ -33,9 +33,9 @@ Les enseignements de mathématiques sont communs avec d’autres filières séle
 ### Admission en première année (LDD1)
 
  - La procédure d'admission en première année est disponible via cette application  [https://www.parcoursup.fr](https://www.parcoursup.fr).
- - La limite s'incrire et formuler les voeux est fixée au 9 mars 2023. 
- - La limite pour déposer les dossiers est fixée au 6 avril 2023. 
- - **La phase complémentaire parcoursup s’ouvrira au cours du mois de juin**. Elle permettra aux étudiants de formuler des nouveaux vœux et de rejoindre la formation. 
+ - **La limite s'incrire et formuler les voeux est fixée au 9 mars 2023.** 
+ - **La limite pour déposer les dossiers est fixée au 6 avril 2023.**
+ - La phase complémentaire parcoursup s’ouvrira au cours du mois de juin. Elle permettra aux étudiants de formuler des nouveaux vœux et de rejoindre la formation. 
 
 
 ### Admission en deuxième année ou troisième année (LDD2 ou LDD3)
