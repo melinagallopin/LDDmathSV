@@ -94,30 +94,35 @@ En troisème année, différents parcours permettent de sélectionner différent
 
 #### Bloc "renforcement disciplinaire" (au choix)
 
-Renforcement en mathématiques : 
+**Renforcement en mathématiques** : 
+
 - Equations différentielles et résolution numérique
 - Algèbre Linéaire pour l’Analyse numérique
 - Analyse hilbertienne
 
-Renforcement en biologie option "biologie des organismes et écologie" (BOE):
+**Renforcement en biologie option "biologie des organismes et écologie" (BOE)**:
+
 - Ecologie : théorie et pratique (LDD MSV)
 - Biologie évolutive
 - Sciences des données en biologie
 
-Renforcement en biologie option "biologie santé" (BS): 
+**Renforcement en biologie option "biologie santé" (BS)**: 
+
 - Immunologie - Virologie
 - Génétique pour la LDD
 - Développement
 
 #### Bloc Transverse :
+
 - Langue - Anglais
 - Bioinformatique pour les sciences de la vie
 - Projet tutoré biomathématiques
-- UE libre (O ECTS)
+- UE libre (0 ECTS)
 
 #### Bloc Complémentaire :
 
 Plusieurs enseignements à choisir parmi :
+
 - Méthodes statistiques de prévision
 - Inférence statistique
 - Compléments en biologie moléculaire et biochimie
