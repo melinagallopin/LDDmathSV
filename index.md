@@ -78,34 +78,61 @@ Le programme de la formation est accessible ici [https://www.universite-paris-sa
 
 En troisème année, différents parcours permettent de sélectionner différentes matières dans l'ensemble des enseignements listés ci-dessous: 
 
+#### Bloc de biologie (Obligatoire) 
+
 - De l'exploration des génomes à la fonction des macromolécules
 - Dynamique Cellulaire
+- Génétique des populations et quantitative
+- Écologie des écosystèmes ou une autre UE au choix (orienté santé)
+
+#### Bloc de mathématiques (Obligatoire) 
+
+- Integration
+- Calcul différentiel et optimisation
+- Probabilités
+- Oraux/Prépa concours
+
+#### Bloc "renforcement disciplinaire" (au choix)
+
+Renforcement en mathématiques : 
+- Equations différentielles et résolution numérique
+- Algèbre Linéaire pour l’Analyse numérique
+- Analyse hilbertienne
+
+Renforcement en biologie option "biologie des organismes et écologie" (BOE):
+- Ecologie : théorie et pratique (LDD MSV)
+- Biologie évolutive
+- Sciences des données en biologie
+
+Renforcement en biologie option "biologie santé" (BS): 
+- Immunologie - Virologie
+- Génétique pour la LDD
+- Développement
+
+Bloc Transverse :
+- Langue - Anglais
+- Bioinformatique pour les sciences de la vie
+- Projet tutoré biomathématiques
+- UE libre (O ECTS)
+
+Bloc Complémentaire :
+
+Plusieurs enseignements à choisir parmi :
+- Méthodes statistiques de prévision
+- Inférence statistique
+- Compléments en biologie moléculaire et biochimie
+- Sciences des données en biologie
+- Langue Anglais
+- Open Data en sciences des données
+- Projet individuel de fin d'étude
 - Physiologie des Fonctions Cardiorespiratoires, Digestives et Métabolisme
 - Métabolisme chez les végétaux
 - Monde microbien
 - Écologie des écosystèmes
-- Génétique pour la LDD
-- Ecologie : théorie et pratique (LDD MSV)
-- Biologie évolutive
 - Physiologie des Régulations Endocrines et Neurosciences
 - Réponses des Plantes aux Contraintes de l'Environnement
 - Pathologie des microorganismes: aspects cliniques et moléculaires
-- Compléments en biologie moléculaire et biochimie
-- Génétique des populations et quantitative
-- Projet tutoré biomathématiques
-- Méthodes statistiques de prévision
-- Inférence statistique
-- Lang - Anglais 
-- Integration
-- Calcul différentiel et optimisation
-- Probabilités
-- Equations différentielles et résolution numérique
-- Analyse hilbertienne
-- Oraux/Prépa concours
-- Sciences des données en Biologie
-- Développement
-- Algèbre Linéaire pour l’Analyse numérique
-- Immunologie - Virologie
+
 
 
 
