@@ -109,13 +109,13 @@ Renforcement en biologie option "biologie santé" (BS):
 - Génétique pour la LDD
 - Développement
 
-Bloc Transverse :
+#### Bloc Transverse :
 - Langue - Anglais
 - Bioinformatique pour les sciences de la vie
 - Projet tutoré biomathématiques
 - UE libre (O ECTS)
 
-Bloc Complémentaire :
+#### Bloc Complémentaire :
 
 Plusieurs enseignements à choisir parmi :
 - Méthodes statistiques de prévision
