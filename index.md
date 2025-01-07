@@ -180,7 +180,7 @@ Les enseignements de mathématiques sont communs avec d’autres filières séle
 
 ## Rencontres aves les étudiants de la formation
 
-#### Les Journée "Portes Ouvertes" auront lieu le samedi 8 février 2025
+#### Les Journée "Portes Ouvertes" auront lieu le samedi 8 février 2025 sur le campus de l'université Paris-Saclay, au batiment 337 situé à 20 min à pied du RER Orsay Ville (RER B). 
 
 Si vous souhaitez des informations sur la formation, et que vous n'avez pas pu vous déplacer, vous pouvez nous contacter par e-mail à l'adresse melina.gallopin@universite-paris-saclay.fr
 pour poser vos questions. 
